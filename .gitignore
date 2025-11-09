@@ -1,4 +1,3 @@
-.gitignore/
 node_modules/
-expense.csv/
-expenseTracker.json/
+expense.csv
+expenseTracker.json
