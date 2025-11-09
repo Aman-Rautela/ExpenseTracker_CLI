@@ -1,0 +1,16 @@
+{
+  "name": "expense_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node expenseTracker.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-2-csv": "^5.5.10"
+  }
+}
